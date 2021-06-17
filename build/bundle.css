@@ -1,0 +1,16 @@
+html,
+body {
+  background-color: #fff;
+  color: #000;
+  height: 100vh;
+}
+
+a {
+  color: #2196f3;
+}
+
+a:visited {
+  color: #1565c0;
+}
+
+/*# sourceMappingURL=bundle.css.map*/
